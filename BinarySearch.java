@@ -1,6 +1,6 @@
 
 public class BinarySearch {
-
+	// This binary search algorithm is iterative in its nature.
 	private static int binarySearchFunc(int array[], int key) {
 		int index = -1;
 		int low = 0;
