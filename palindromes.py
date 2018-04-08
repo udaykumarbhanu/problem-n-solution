@@ -38,6 +38,11 @@ def palindrome_three(s):
 
 		return True
 
+	else: 
+		# None(null) is not palindrome.
+		
+		return False
+
 
 if __name__ == "__main__":
 	s1="aba"
